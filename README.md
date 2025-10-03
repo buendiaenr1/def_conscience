@@ -1,6 +1,21 @@
 # def_conscience
 Definir conciencia
 
+## pca_leyenda
+Lee archivos CSV, TXT, PDF para realizar el análisis de componentes principales.
+
+Identificar relaciones conceptuales, no es una definición directa: El PCA no contiene en sí mismo las relaciones filosóficas (no es un sistema ontológico). No es un reflejo estadístico: captura cómo los conceptos filosóficos aparecen juntos en los textos analizados. Basado en co-ocurrencia: Si dos términos filosóficos (ej. “conscious” y artificial”) tienden a aparecer en los mismos contextos, el PCA los ubicará cerca.
+Revelar relaciones filosóficas: proximidad de puntos, significa conceptos filosóficamente relacionadas. Distancia entre puntos, significa oposición o brecha filosófica. Agrupamiento (clusters), significa dominios filosóficos coherentes. Posición en ejes, significa dimensiones filosóficas subyacentes.
+Mostrar relaciones específicas: relación de proximidad “information”+”conscious”, donde la relación filosófica, soporta la Teoría del Espacio de Trabajo Neuronal Global (Dahaene), que se interpreta como La conciencia como acceso global a la información. “emotion” + “learning”:  como base neurocientífica del aprendizaje afectivo (Damasio), que se interpreta como, las emociones como moduladoras esenciales de la cognición. Relaciones de distancia: “technology” vs “conscious” , donde su relación filosófica es, Brecha fenomenológica (Picard), que se interpreta como La IA puede simular, pero no experimentar; “artificial” vs “human” con relación filosófica, Límites de la IA en replicar la cognición humana, que se interpreta como La conciencia como propiedad emergente no computacional.
+Agrupamientos temáticos, cluster neurocientífico (“brain”, “cortex”, “neural”): cuya relación filosófica: materialismo vs dualismo se interpreta como La conciencia como producto de procesos neuronales. Cluster educativo (“learning”,”teaching”,”student”), su relación filosófica es epistemología del aprendizaje, que se interpreta como se construye el conocimiento en sistemas naturales y artificiales.
+Teniendo las siguientes limitaciones: no tiene profundidad filosófica, no captura matices argumentativos, solo captura asociaciones lineales, refleja lo escrito, no lo pensado.  
+
+
+Identifying conceptual relationships is not a straightforward definition: PCA does not contain philosophical relationships (it is not an ontological system). It is not a statistical reflection: it captures how philosophical concepts appear together in the analyzed texts. Based on co-occurrence: If two philosophical terms (e.g., “conscious” and “artificial”) tend to appear in the same contexts, PCA will locate them close together.
+Reveal philosophical relationships: Proximity of points means philosophically related concepts. Distance between points means opposition or philosophical gap. Clustering means coherent philosophical domains. Position on axes means underlying philosophical dimensions.
+Show specific relationships: Proximity relationship “information” + “conscious,” where the philosophical relationship supports the Global Neural Workspace Theory (Dahaene), which is interpreted as consciousness as global access to information. “emotion” + “learning”: as the neuroscientific basis of affective learning (Damasio), which is interpreted as emotions as essential modulators of cognition. Distance relationships: “technology” vs. “conscious,” where their philosophical relationship is a Phenomenological Gap (Picard), which It is interpreted as: AI can simulate, but not experiment; "artificial" vs. "human" with a philosophical relationship, Limits of AI in replicating human cognition, which is interpreted as: Consciousness as a non-computational emergent property.
+Thematic groupings, neuroscientific cluster ("brain," "cortex," "neural"): whose philosophical relationship: materialism vs. dualism is interpreted as: Consciousness as a product of neural processes. Educational cluster ("learning," "teaching," "student"), its philosophical relationship is: epistemology of learning, which is interpreted as how knowledge is constructed in natural and artificial systems.
+It has the following limitations: it lacks philosophical depth, it does not capture argumentative nuances, it only captures linear associations, and it reflects what is written, not what is thought.
 
 
 ## des.py  
