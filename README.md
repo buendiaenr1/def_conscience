@@ -1,5 +1,8 @@
 # def_conscience
+
 Definir conciencia
+
+Define consciousness
 
 ## pca_leyenda
 Lee archivos CSV, TXT, PDF para realizar el análisis de componentes principales.
